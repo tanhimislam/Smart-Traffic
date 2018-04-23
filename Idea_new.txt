@@ -1,0 +1,9 @@
+Travel
+
+Traffic Problem
+
+Presentation Time: 3.5 mins
+3 slides
+
+1. GPS enabled system. Bus will be pentaltized if it stops without any bus stopage.
+2. Bus route information. With rating for buses.

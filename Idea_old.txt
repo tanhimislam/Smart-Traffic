@@ -1,0 +1,43 @@
+IDEA #1
+
+Most of the tour services have packaged tour. These tours have fixed dates and fixed budget and activities. 
+But some backpackers and travellers dont like packaged tours. So we can
+offer them a fully customizable tour plans. It can be worked as a hub for travellers and tour operators.
+
+
+1. Interested travellers will customize a tour. They will select destination, tour dates, hotels, activities and others.
+2. Travellers interested in tours and their customized tour choices will be shown to the tour opeerators. 
+3. Tour operators will arrange tours that best matches the most of the travellers.
+4. Travellers will be informed about the upcoming tours. 
+
+Features:
+
+1. Tour Customization: 
+-Destination Place
+-Start and end date
+-Transportation (bus/air/water)
+-On tour activities (surfing/hiking/trekking)
+-Hotels
+-Guides
+
+2.Travel Routes
+An AI based travel route mapping that will help travellers to take the best routes according to their needs-
+- routes for time efficient 
+Example: here yu will be suggested to take airline to go to Bhutan instead of Bus. Airline flight routes with 
+plane names and departure dates will be shown.
+- routes for cost effiecient
+Example: here you will be suggested to take bus instead of airline to go to Bhutan. Bus name, cost, departure time
+and route willl be shown in maps. Traveller will select the best one suited for him/her.
+
+3. Travel companion
+Get help from the volunteers nearby.
+Ask questions to a volunteer in a specific area
+Get a tourist guide
+Get cheap accommodation 
+Quick help in emergency situations
+Get food suggestions and transportations 
+Volunteers will offer guiding in their city whole day with a price tag.
+
+4. Visa Bot
+An AI based bot that will help with information about VISAs in different coutries.
+ 
